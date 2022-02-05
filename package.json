@@ -1,0 +1,12 @@
+{
+  "name": "maqebot",
+  "version": "1.0.0",
+  "description": "MAQE Homework Challenge - MAQE Bot",
+  "main": "maqebot.js",
+  "author": "Aphidet Hongseetong",
+  "license": "MIT",
+  "scripts": {
+    "start": "node maqebot"
+  },
+  "type": "module"
+}
